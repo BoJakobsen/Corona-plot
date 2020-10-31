@@ -3,4 +3,3 @@ pandas
 matplotlib
 pathlib
 requests
-zipfile
