@@ -1,0 +1,2 @@
+# Date ; NyeSmittede; AntalProever ; Indlagte ; Intensiv ; Kilde
+2020-11-02; 942 ; 174 ; 23 ; Politiken.dk
